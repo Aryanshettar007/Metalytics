@@ -1,5 +1,5 @@
-# Metalytics - Frontend Prototype
-
+# SIH25069  AI-Driven Life Cycle Assessment Tool for Metallurgy & Mining-Frontend Prototype  
+Metalytics:
 A React + Tailwind CSS frontend prototype for **Metalytics**, an AI-driven circular metallurgy platform.  
 Includes interactive pages, light/dark mode, and placeholder charts for sustainability insights.
 
