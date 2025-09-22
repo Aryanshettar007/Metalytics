@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Simple theme tokens to emulate the Figma look */
+:root{
+  --bg:#071019;
+  --panel:#0e1416;
+  --muted:#9aa3a6;
+  --accent-start:#00c985;
+  --accent-end:#00d4ff;
+}
+.light body{ background: #f7fafc; color:#0b1220; }
+.dark body{ background: var(--bg); color:#cfe8de; }
+
+/* basic scroll styling */
+::-webkit-scrollbar { height:8px; width:8px; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.06); border-radius:9999px; }
